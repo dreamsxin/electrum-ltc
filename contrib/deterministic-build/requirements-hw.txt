@@ -16,4 +16,4 @@ requests==2.18.4
 rlp==0.6.0
 six==1.11.0
 trezor==0.9.1
-urllib3==1.22
+urllib3==1.24.2
